@@ -75,8 +75,9 @@ Created with 💻 by **Pratham Suthar**
 
 > “If Python is your canvas, Pydantic is the sketch that keeps it clean, balanced, and bold.”
 
+
 ---
 
 Let’s build clean, powerful, and type-safe applications with Pydantic! ✨  
 **Star this repo** if it helped you – and share with your Python friends! 🐍💫
-# pydantic-tutorial
+
